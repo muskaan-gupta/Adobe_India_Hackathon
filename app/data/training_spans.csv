@@ -1114,14 +1114,14 @@ March 2003,7.56,1,1,0,center,296.71,13,10,0,body
 14,9.0,0,1,0,right,511.12,13,2,0,body
 14,9.0,0,1,0,right,510.88,13,2,0,body
 Parsippany -Troy Hills STEM Pathways,28.01,1,0,0,left,125.82,0,36,0,H1
-Mission Statement:,14.01,0,0,0,left,80.33,0,18,0,H4
-To provide PTHSD high school students with the opportunity to,12.0,0,0,0,center,205.74,0,61,0,body
-"concentrate their studies, beyond those required in high school, in the areas of science,",12.0,0,0,0,left,80.33,0,89,0,body
-"technology, engineering, and mathematics, and expose students to relevant real world",12.0,0,0,0,left,80.33,0,84,0,body
-"experiences through project work, conferences and presentations to enhance their high school",12.0,0,0,0,left,80.33,0,92,0,body
-experience.,12.0,0,0,0,left,80.33,0,11,0,body
-PATHWAY OPTIONS,15.31,0,0,0,center,240.18,0,15,0,H3
-REGULAR PATHWAY,15.31,1,0,0,left,117.18,0,15,0,H3
+Mission Statement:,14.01,0,0,0,left,80.33,0,18,0,H2
+To provide PTHSD high school students with the opportunity to,12.0,0,0,0,center,205.74,0,61,0,H3
+"concentrate their studies, beyond those required in high school, in the areas of science,",12.0,0,0,0,left,80.33,0,89,0,H3
+"technology, engineering, and mathematics, and expose students to relevant real world",12.0,0,0,0,left,80.33,0,84,0,H3
+"experiences through project work, conferences and presentations to enhance their high school",12.0,0,0,0,left,80.33,0,92,0,H3
+experience.,12.0,0,0,0,left,80.33,0,11,0,H3
+PATHWAY OPTIONS,15.31,0,0,0,center,240.18,0,15,0,body
+REGULAR PATHWAY,15.31,1,0,0,left,117.18,0,15,0,body
 ●,11.01,0,0,0,left,74.78,0,1,0,body
 4 credits of Math,11.01,0,0,0,left,99.44,0,17,0,body
 ●,11.01,0,0,0,left,74.78,0,1,0,body
@@ -1141,7 +1141,7 @@ the 4 years,11.01,0,0,0,left,99.44,0,11,0,body
 Join and actively participate in a,11.01,0,0,0,left,99.44,0,34,0,body
 STEM-related extracurricular activity or,11.01,0,0,0,left,99.44,0,40,0,body
 club every year of attendance. -,11.01,0,0,0,left,99.44,0,32,0,body
-DISTINCTION PATHWAY,15.31,1,0,0,center,351.72,0,19,0,H3
+DISTINCTION PATHWAY,15.31,1,0,0,center,351.72,0,19,0,title
 ●,11.01,0,0,0,center,320.77,0,1,0,body
 4 credits of Math - At least one math,11.01,0,0,0,center,345.43,0,37,0,body
 course should be an AP Math class.,11.01,0,0,0,center,345.43,0,34,0,body
@@ -1169,197 +1169,25 @@ club every year of attendance.,11.01,0,0,0,center,345.43,0,30,0,body
 Either participate in an internship or,11.01,0,0,0,center,345.43,0,38,0,body
 design and implement a community,11.01,0,0,0,center,345.43,0,32,0,body
 impact project.,11.01,0,0,0,center,345.43,0,15,0,body
-Goals:,14.01,0,0,0,left,45.41,0,6,0,H4
-•,11.51,0,0,0,left,41.38,0,1,0,body
-"Inspire keen interest in mathematics, science, engineering, and",11.51,0,0,0,left,45.41,0,63,0,body
-"technology, develop strong scholarship in the subject and",11.51,0,0,0,left,45.41,0,57,0,body
-promote the enjoyment of these studies in high school.,11.51,0,0,0,left,45.41,0,54,0,body
-•,11.51,0,0,0,left,41.38,0,1,0,body
-Expose students to potential career opportunities in the field.,11.51,0,0,0,left,45.41,0,63,0,body
-•,11.51,0,0,0,left,41.38,0,1,0,body
-Encourage students to pursue higher education and major in,11.51,0,0,0,left,45.41,0,58,0,body
-STEM careers.,11.51,0,0,0,left,45.41,0,13,0,body
-• Promote interactions with STEM professionals to learn about,11.51,0,0,0,left,39.68,0,61,0,body
-future opportunities.,11.51,0,0,0,left,45.41,0,21,0,body
-• Support field experiences connected to the world outside of,11.51,0,0,0,left,39.68,0,61,0,body
-the school building.,11.51,0,0,0,left,45.41,0,20,0,body
-"• Signal to employers, universities, training programs, and",11.51,0,0,0,left,39.68,0,59,0,body
-military that a student has completed a comprehensive course,11.51,0,0,0,left,45.41,0,60,0,body
-of study in a specialized area.,11.51,0,0,0,left,45.41,0,31,0,body
-"• Cultivate transferable work habits such as perseverance, goal",11.51,0,0,0,left,39.68,0,63,0,body
-"setting, and self-direction.",11.51,0,0,0,left,45.41,0,28,0,body
-Elective Course Offerings,22.01,0,0,0,left,182.11,1,25,0,H2
-Science,12.0,1,0,0,left,69.65,1,7,0,body
-Math,12.0,1,0,0,center,183.77,1,4,0,body
-Computer Science/,12.0,1,0,0,center,270.34,1,17,0,body
-Technology,12.0,1,0,0,center,289.72,1,10,0,body
-Art,12.0,1,0,0,center,425.3,1,3,0,body
-Applied,12.0,1,0,0,right,509.69,1,7,0,body
-Technology/,12.0,1,0,0,right,498.33,1,11,0,body
-Family Consumer,12.0,1,0,0,right,486.09,1,15,0,body
-Science and Other,12.0,1,0,0,right,483.72,1,17,0,body
-•,11.0,0,0,0,left,36.32,1,1,0,body
-AP Biology,11.0,0,0,0,left,57.18,1,10,0,body
-•,11.0,0,0,0,left,36.32,1,1,0,body
-AP Chemistry,11.0,0,0,0,left,57.18,1,12,0,body
-•,11.0,0,0,0,left,36.32,1,1,0,body
-AP Physics C,11.0,0,0,0,left,57.18,1,12,0,body
-•,11.0,0,0,0,left,36.32,1,1,0,body
-Forensics,11.0,0,0,0,left,57.18,1,9,0,body
-•,11.0,0,0,0,left,36.32,1,1,0,body
-Honors Anatomy,11.0,0,0,0,left,57.18,1,14,0,body
-and Physiology,11.0,0,0,0,left,57.18,1,14,0,body
-•,11.0,0,0,0,left,36.32,1,1,0,body
-AP Environmental,11.0,0,0,0,left,57.18,1,16,0,body
-Science,11.0,0,0,0,left,57.18,1,7,0,body
-•,11.0,0,0,0,left,36.32,1,1,0,body
-Marine Biology,11.0,0,0,0,left,57.18,1,14,0,body
-•,11.0,0,0,0,left,36.32,1,1,0,body
-Organic Chemistry,11.0,0,0,0,left,57.18,1,17,0,body
-•,11.0,0,0,0,left,36.32,1,1,0,body
-Genetics,11.0,0,0,0,left,57.18,1,8,0,body
-•,11.0,0,0,0,left,36.32,1,1,0,body
-Astronomy,11.0,0,0,0,left,57.18,1,9,0,body
-•,11.0,0,0,0,left,36.32,1,1,0,body
-Bioethics,11.0,0,0,0,left,57.18,1,9,0,body
-•,11.0,0,0,0,left,36.32,1,1,0,body
-MythBusting: The,11.0,0,0,0,left,57.18,1,16,0,body
-Science of,11.0,0,0,0,left,57.18,1,10,0,body
-Literature and,11.0,0,0,0,left,57.18,1,14,0,body
-Films,11.0,0,0,0,left,57.18,1,5,0,body
-•,10.0,0,0,0,left,156.32,1,1,0,body
-+,6.67,1,0,0,left,177.83,1,1,0,body
-AP Calculus,10.0,0,0,0,left,181.72,1,11,0,body
-•,10.0,0,0,0,left,156.32,1,1,0,body
-+,6.67,1,0,0,left,177.83,1,1,0,body
-AP Statistics,10.0,0,0,0,left,181.72,1,13,0,body
-•,10.0,0,0,0,left,156.32,1,1,0,body
-+,6.67,1,0,0,left,177.83,1,1,0,body
-Calculus,10.0,0,0,0,left,181.72,1,8,0,body
-•,10.0,0,0,0,left,156.32,1,1,0,body
-"Probability,",10.0,0,0,0,left,177.83,1,12,0,body
-"Statistics,",10.0,0,0,0,left,177.83,1,11,0,body
-and Discrete,10.0,0,0,0,left,177.83,1,12,0,body
-Math,10.0,0,0,0,left,177.83,1,4,0,body
-•,10.0,0,0,0,left,156.32,1,1,0,body
-+,6.67,1,0,0,left,177.83,1,1,0,body
-Precalculus,10.0,0,0,0,left,181.72,1,11,0,body
-•,10.0,0,0,0,left,156.32,1,1,0,body
-Algebra 3 &,10.0,0,0,0,left,177.83,1,11,0,body
-Trigonometry,10.0,0,0,0,left,177.83,1,12,0,body
-•,10.0,0,0,0,left,156.32,1,1,0,body
-Applied Math,10.0,0,0,0,left,177.83,1,12,0,body
-•,10.0,0,0,0,left,156.32,1,1,0,body
-Honors,10.0,0,0,0,left,177.83,1,6,0,body
-Accounting 1,10.0,0,0,0,left,177.83,1,12,0,body
-•,10.0,0,0,0,left,156.32,1,1,0,body
-Investments,10.0,0,0,0,left,177.83,1,11,0,body
-•,10.0,0,0,0,left,156.32,1,1,0,body
-AP,10.0,0,0,0,left,177.83,1,2,0,body
-Economics,10.0,0,0,0,left,177.83,1,9,0,body
-•,10.0,0,0,0,left,156.32,1,1,0,body
-Business,10.0,0,0,0,left,177.83,1,8,0,body
-Org.,10.0,0,0,0,left,177.83,1,4,0,body
-Management,10.0,0,0,0,left,177.83,1,10,0,body
-•,11.0,0,0,0,center,254.27,1,1,0,body
-Computer,11.0,0,0,0,center,275.13,1,8,0,body
-Programming in C++,11.0,0,0,0,center,275.13,1,18,0,body
-•,11.0,0,0,0,center,254.27,1,1,0,body
-Robotics,11.0,0,0,0,center,275.13,1,8,0,body
-•,11.0,0,0,0,center,254.27,1,1,0,body
-Computer Science and,11.0,0,0,0,center,275.13,1,20,0,body
-Programming Concepts,11.0,0,0,0,center,275.13,1,20,0,body
-with Python,11.0,0,0,0,center,275.13,1,11,0,body
-•,11.0,0,0,0,center,254.27,1,1,0,body
-AP Computer Science,11.0,0,0,0,center,275.13,1,19,0,body
-Principles,11.0,0,0,0,center,275.13,1,10,0,body
-•,11.0,0,0,0,center,254.27,1,1,0,body
-AP Computer Science A,11.0,0,0,0,center,275.13,1,21,0,body
-•,11.0,0,0,0,center,254.27,1,1,0,body
-Honors Data Structures,11.0,0,0,0,center,275.13,1,22,0,body
-and Advanced,11.0,0,0,0,center,275.13,1,12,0,body
-Programming,11.0,0,0,0,center,275.13,1,11,0,body
-•,11.0,0,0,0,center,254.27,1,1,0,body
-Networks (CCNA cert),10.0,0,0,0,center,275.13,1,20,0,body
-•,11.0,0,0,0,center,254.27,1,1,0,body
-"Switching, Routing, &",10.0,0,0,0,center,275.13,1,21,0,body
-Wireless Essentials,10.0,0,0,0,center,275.13,1,19,0,body
-(CCNA cert),10.0,0,0,0,center,275.13,1,11,0,body
-•,11.0,0,0,0,center,254.27,1,1,0,body
-Cybersecurity (CCNA,10.0,0,0,0,center,275.13,1,19,0,body
-cert),10.0,0,0,0,center,275.13,1,5,0,body
-•,10.0,0,0,0,center,392.9,1,1,0,body
-Graphic,10.0,0,0,0,center,409.9,1,7,0,body
-Design,10.0,0,0,0,center,409.9,1,6,0,body
-•,10.0,0,0,0,center,392.9,1,1,0,body
-Digital,10.0,0,0,0,center,409.9,1,7,0,body
-Photography,10.0,0,0,0,center,409.9,1,11,0,body
-•,10.0,0,0,0,center,392.89,1,1,0,body
-Advanced,10.0,0,0,0,center,409.9,1,8,0,body
-Digital,10.0,0,0,0,center,409.9,1,7,0,body
-Photography,10.0,0,0,0,center,409.9,1,11,0,body
-***AP,10.0,1,0,0,center,420.36,1,5,0,body
-Captsone -,10.0,1,0,0,center,407.31,1,10,0,body
-Seminar and,10.0,1,0,0,center,403.14,1,11,0,body
-Research w/,10.0,1,0,0,center,403.97,1,11,0,body
-advisor,10.0,1,0,0,center,415.36,1,7,0,body
-approval,10.0,1,0,0,center,412.31,1,8,0,body
-•,10.0,0,0,0,right,482.15,1,1,0,body
-Nutrition for an,10.0,0,0,0,right,499.15,1,16,0,body
-Active Lifestyle,10.0,0,0,0,right,499.15,1,16,0,body
-•,10.0,0,0,0,right,482.15,1,1,0,body
-Engineering,10.0,0,0,0,right,499.15,1,11,0,body
-CAD and Design,10.0,0,0,0,right,499.15,1,14,0,body
-Foundations,10.0,0,0,0,right,499.15,1,11,0,body
-•,10.0,0,0,0,right,482.15,1,1,0,body
-Television,10.0,0,0,0,right,499.15,1,10,0,body
-Production I / II,10.0,0,0,0,right,499.15,1,17,0,body
-•,10.0,0,0,0,right,482.15,1,1,0,body
-Careers in,10.0,0,0,0,right,499.15,1,10,0,body
-Medicine (Phys,10.0,0,0,0,right,499.15,1,14,0,body
-Ed department),10.0,0,0,0,right,499.15,1,14,0,body
-•,10.0,0,0,0,right,482.14,1,1,0,body
-Woods Tech 1,10.0,0,0,0,right,499.15,1,12,0,body
-and 2,10.0,0,0,0,right,499.15,1,5,0,body
-•,10.0,0,0,0,right,482.14,1,1,0,body
-Honors,10.0,0,0,0,right,499.15,1,6,0,body
-Engineering and,10.0,0,0,0,right,499.15,1,15,0,body
-Design,10.0,0,0,0,right,499.15,1,6,0,body
-For more information and our application please visit our website by clicking,12.01,1,0,0,left,69.13,1,77,0,body
-here,12.01,1,0,0,right,511.43,1,4,0,body
-.,12.01,1,0,0,right,536.79,1,1,0,body
-What Colleges Say!,18.01,1,0,0,center,229.62,1,18,0,title
-"When asked the question,",11.01,0,0,0,left,35.26,1,24,0,body
-“Would participation in the,11.01,1,0,0,left,154.19,1,27,0,body
-STEM Pathways set PTHSD students apart when applying,11.01,1,0,0,left,35.26,1,52,0,body
-"to your school?”,",11.01,1,0,0,left,35.26,1,17,0,body
-colleges responded with the following:,11.01,0,0,0,left,111.91,1,38,0,body
-SUNY Binghamton:,11.01,1,0,0,left,35.26,1,16,0,body
-“Yes. We are a R1 research institution,11.01,0,0,0,left,121.82,1,38,0,body
-and students with a strong STEM curriculum that includes,11.01,0,0,0,left,35.26,1,56,0,body
-research or lab work are generally more competitive in our,11.01,0,0,0,left,35.26,1,58,0,body
-applicant pool and more success as students at,11.01,0,0,0,left,35.26,1,46,0,body
-Binghamton because of their early HS experience.”,11.01,0,0,0,left,35.26,1,49,0,body
-Towson University:,11.01,1,0,0,left,35.26,1,18,0,body
-“Participation in this program would,11.01,0,0,0,left,124.31,1,36,0,body
-show us that the student is challenging him/herself in their,11.01,0,0,0,left,35.26,1,60,0,body
-courses which is something we look at when reviewing,11.01,0,0,0,left,35.26,1,52,0,body
-applications.”,11.01,0,0,0,left,35.26,1,14,0,body
-Drew University:,11.01,1,0,0,center,312.05,1,16,0,body
-"“Yes,it would show that they are",11.01,0,0,0,center,390.78,1,32,0,body
-challenging themselves in the classroom.”,11.01,0,0,0,center,312.05,1,41,0,body
-NJIT:,11.01,1,0,0,center,312.05,1,5,0,body
-“Yes- this would demonstrate to Admissions that a,11.01,0,0,0,center,336.37,1,49,0,body
-"student is interested in STEM programs, and would be a",11.01,0,0,0,center,312.03,1,54,0,body
-strong candidate for our programs.”,11.01,0,0,0,center,312.03,1,35,0,body
-Ithaca College:,11.01,1,0,0,center,312.03,1,15,0,body
-"“Yes, we look for students who participate",11.01,0,0,0,center,378.92,1,42,0,body
-in classes and activities that enhance their knowledge and,11.01,0,0,0,center,312.03,1,58,0,body
-skills in their area of interest.”,11.01,0,0,0,center,312.03,1,34,0,body
-Montclair University:,11.01,1,0,0,center,312.03,1,21,0,body
-“Rigorous math and science lab,11.01,0,0,0,center,408.22,1,30,0,body
-classes beyond standard curriculum could be looked at for,11.01,0,0,0,center,312.03,1,57,0,body
-scholarship eligibility along with high GPA.”,11.01,0,0,0,center,312.03,1,45,0,body
+Goals:,14.01,0,0,0,left,45.41,0,6,0,H2
+•,11.51,0,0,0,left,41.38,0,1,0,H4
+"Inspire keen interest in mathematics, science, engineering, and",11.51,0,0,0,left,45.41,0,63,0,H4
+"technology, develop strong scholarship in the subject and",11.51,0,0,0,left,45.41,0,57,0,H4
+promote the enjoyment of these studies in high school.,11.51,0,0,0,left,45.41,0,54,0,H4
+•,11.51,0,0,0,left,41.38,0,1,0,H4
+Expose students to potential career opportunities in the field.,11.51,0,0,0,left,45.41,0,63,0,H4
+•,11.51,0,0,0,left,41.38,0,1,0,H4
+Encourage students to pursue higher education and major in,11.51,0,0,0,left,45.41,0,58,0,H4
+STEM careers.,11.51,0,0,0,left,45.41,0,13,0,H4
+• Promote interactions with STEM professionals to learn about,11.51,0,0,0,left,39.68,0,61,0,H4
+future opportunities.,11.51,0,0,0,left,45.41,0,21,0,H4
+• Support field experiences connected to the world outside of,11.51,0,0,0,left,39.68,0,61,0,H4
+the school building.,11.51,0,0,0,left,45.41,0,20,0,H4
+"• Signal to employers, universities, training programs, and",11.51,0,0,0,left,39.68,0,59,0,H4
+military that a student has completed a comprehensive course,11.51,0,0,0,left,45.41,0,60,0,H4
+of study in a specialized area.,11.51,0,0,0,left,45.41,0,31,0,H4
+"• Cultivate transferable work habits such as perseverance, goal",11.51,0,0,0,left,39.68,0,63,0,H4
+"setting, and self-direction.",11.51,0,0,0,left,45.41,0,28,0,H4
 ADDRESS:,12.4,0,0,0,left,32.65,0,8,0,body
 TOPJUMP,12.41,0,0,0,center,131.44,0,7,0,body
 3735,12.4,0,0,0,center,114.81,0,4,1,body

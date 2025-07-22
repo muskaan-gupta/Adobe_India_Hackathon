@@ -1,1 +1,1 @@
-# Gupta MC
+# Adobe Hackathon (PDF text Extractor)
