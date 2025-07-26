@@ -1,0 +1,1590 @@
+{
+  "title": "NBER WORKING PAPER SERIES",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "NBER WORKING PAPER SERIES",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "EVIDENCE FROM A SURVEY",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Esteban M. Aucejo",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Jacob F. French",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Maria Paola Ugalde Araya",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Basit Zafar",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "NATIONAL BUREAU OF ECONOMIC RESEARCH",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Cambridge, MA 02138",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "National Bureau of Economic Research.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "NBER publications.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Esteban M. Aucejo, Jacob F. French, Maria Paola Ugalde Araya, and Basit Zafar",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "NBER Working Paper No. 27392",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "JEL No. I2,I23,I24",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "ABSTRACT",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "COVID-19: 13% of students have delayed graduation,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Esteban M. Aucejo",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Arizona State University",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "P.O. Box 879801",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Tempe, AZ 85287",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "and NBER",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Jacob F. French",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Arizona State University",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Maria Paola Ugalde Araya",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Arizona State University",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Basit Zafar",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Arizona State University",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "P.O. Box 879801",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Tempe,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "AZ 85287",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "and NBER",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "1",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Introduction",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "the world (with the COVID-19 pandemic, and without)",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "See, the New York Times article",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "expected GPA.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "2",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Data",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Survey",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Sample",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "3",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Analytic Framework",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "O",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "COV ID",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "impact of COVID-19 on student outcomes:",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "O",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "COV ID",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "COV ID",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "\u2019s outcome in the state of the world with COVID-19,",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "COV ID",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Heckman",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Imbens and Rubin",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "\u201cWhat semester-level GPA do you",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "). The",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "\u201cHow has the COVID-19 pandemic affected",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Zafar",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "4",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Empirical Analysis",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Treatment Effects",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": ". The",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "A1",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "However,",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Turning to Panel B in Table",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "COVID-19.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "COVID-19 to be long-lasting. This is consistent with",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "A1",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "With COVID-19, this gap nearly doubles to 0.098.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "One",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "A3",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "job before graduating due to COVID-19.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "5",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Mechanisms behind the COVID-19 Effects",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Economic and Health Mediating Factors",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Table",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "In short, Table",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Effects",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Demog",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "FinShock",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "HealthShock",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "is the COVID-19 treatment effect for outcome",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "O",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Demog",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "FinShock",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "HealthShock",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "FinShock",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "HealthShock",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "FinShock",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "HealthShock",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Table",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "A2",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "A4",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "A2",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "6",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Conclusions",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "References",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Angrist, J. D. and J.-S. Pischke (2009).",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Princeton University Press. OCLC: ocn231586808.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Choice.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Chetty, R., J. N. Friedman, N. Hendren, and M. Stepner (2020, May).",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Real-Time Economics: A New",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Sector Data.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Imbens, G. and D. B. Rubin (2015).",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": ". OCLC: 985493948.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Malmendier, U. and S. Nagel (2016, February).",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "The Quarterly",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Shapiro, M. and P. Giustinelli (2019, July).",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "SeaTE: Subjective ex ante Treatment Effect of Health on",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Figures",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Delay Graduation due to COVID (0/1)",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Semester GPA (\u22060-4)",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Change Major due to COVID (0/1)",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Likelihood Take Online Classes (\u22060-1)",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Probability Job Before Graduate (\u22060-1)",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Tables",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Table 1:",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Survey",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "All",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "ASU",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "P-value",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Flagship",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Univ.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "P-value",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Survey",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Honors",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "P-value",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Top-10",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Univ.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "P-value",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Female",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Black",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "White",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Hispanic",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Int. Students",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "First Generation",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Family Income",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "SAT Verbal 25th %tile",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "SAT Verbal 75th %tile",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "SAT Math 25th %tile",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "SAT Math 75th %tile",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "ACT 25th %tile",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "ACT 75th %tile",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Sample Size",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Notes:",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Table 2:",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "With",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "COVID-19",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Without",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "COVID-19",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Prop.",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Prop.",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Panel A: Academic",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Semester GPA",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Panel B: Labor Market",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Notes:",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "All",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Lower",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Income",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Higher",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Income",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "P-value",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Honors",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Not",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Honors",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "P-value",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Female",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Male",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "P-value",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Likelihood catch COVID-19 by summer (0-1)",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Composition of COVID Effects",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Delay grad due to COVID (0/100)",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "COVID impact major choice (0/100)",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "R",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Appendix",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Figure A1:",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Withdrew from Class due to COVID (0/1)",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Move in With Family due to COVID (0/1)",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Reservation Wage (Pct. \u2206)",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Figure A2:",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Notes:",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Table A1:",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "With",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "COVID-19",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Without",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "COVID-19",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Prop.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Prop.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Panel A: Academic",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Semester GPA",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Panel B: Labor Market",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Panel C: Social",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Notes:",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Table A2:",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Composition of COVID Effects: More Outcomes",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Sem GPA (\u22060-4)",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Withdrew class b/c COVID (0/100)",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Y",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "R",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Table A3:",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Existing Achievement Gaps",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Years to",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Graduate",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Cum GPA",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "at Grad",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Graduate",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Dropout",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Ever",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Switch",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Major",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Women",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Men",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "First Generation",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Not First Generation",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Low Income",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "High Income",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Nonwhite",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "White",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Honors",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Non-Honors",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Notes:",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Table A4:",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Economic Proxies",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Student Lost",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Job",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Family Lost",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Income",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Student",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Earnings",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Student Lost Job (0/1)",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Family Lost Income (0/1)",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Health Proxies",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Health",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "if Catch",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "COVID",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Catch",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "COVID by",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Summer",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Likelihood Hospitalized if Catch COVID (0-1)",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Likelihood Catch COVID by Summer (0-1)",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "Notes:",
+      "page": 26
+    }
+  ]
+}

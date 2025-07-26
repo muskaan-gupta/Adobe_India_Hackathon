@@ -1,0 +1,635 @@
+{
+  "title": "Writing a News",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "Writing a News",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Report",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "UNIT 4 WRITING A NEWS REPORT",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Evolution of News Writing",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "4.3.1 Changes in Journalism Over Time",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "News Values",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Elements of News Writing",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "4.5.3 Importance of Concise and Clear Language",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Research and Information Gathering",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "4.6.1 How to Identify News Story",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "4.7.2 SEO Headline",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Lead Writing",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "News Verification and Fact Checking",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "4.9.1 Ai in News Writing",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "4.11 Let Us Sum Up",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "4.14 Check Your Progress: Possible Answers",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "4.0",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "INTRODUCTION",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "News Writing",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "4.1",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "LEARNING OUTCOMES",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "4.2",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "UNDERSTANDING THE ROLE OF NEWS",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "4.2.1 Role of Journalists in Society",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Writing a News",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Report",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "4.3",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "EVOLUTION OF NEWS WRITING",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "4.3.1 Changes in Journalism Over Time",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "4.4",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "NEWS VALUES",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "News Writing",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Writing a News",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Report",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Check Your Progress - 1",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Note:",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "4.5",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "ELEMENTS OF NEWS WRITING",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "4.5.1 The Inverted Pyramid",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "4.5.2 Elements of News Story",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "News Writing",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "The Headline",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "The Lead",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Body",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Every",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Tail/Conclusion",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "4.5.3 Importance of Concise and Clear Language",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Writing a News",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Report",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "4.6",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "RESEARCH AND INFORMATION",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "GATHERING FOR NEWS",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "4.6.1 How to Identify News Story",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Beat System:",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Regular Sources:",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Follow Up Stories:",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "News Writing",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "4.6.2 Writing a News Story",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Define Goals and Objectives:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Identify Reliable Sources:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Conduct Preliminary Research:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Arrange Information Gathering:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Interview Additional Sources:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Define the Story:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Write the First Draft:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Read Aloud for Logic and Syntax:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Meet Deadline:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Writing a News",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Report",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "4.7",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "HEADLINE WRITING",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "4.7.1 Writing an Effective Headline",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "ULFA signs peace accord with Centre, Assam govt",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "4.6.2 SEO Headlines",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "News Writing",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Tips for Better SEO Headline Writing",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "SERP Stimulator for accurate previews.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Help.\"",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "4.8",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "LEAD WRITING",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "4.8.1 Types of Leads",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Summary Lead:",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Anecdotal Lead:",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Delayed Identification Lead:",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Writing a News",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Report",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Question Lead:",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Analogy Lead:",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Example: In Amsterdam, The Netherlands,",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Short Sentence Lead:",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Parody Lead:",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Opposite Lead:",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Punch Lead:",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "\"LOST SHIP\" or \"Train Catches Fire.\"",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Staccato Lead:",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "News Writing",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Check Your Progress \u2013 2",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Note:",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "What are SEO Headlines?",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "4.9",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "NEWS VERIFICATION AND FACT-",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "CHECKING",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "bodies like Full Fact, Snopes, and Africa Check.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Writing a News",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Report",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "4.9.1 Artificial Intelligence and News Writing",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "4.10 VISUAL STORYTELLING",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "News Writing",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "4.10.1 Elements of Visual Storytelling",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Note:",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Writing a News",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Report",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "4.11 LET US SUM UP",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "4.12 KEY WORDS",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Lead:",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "4.13 FURTHER READINGS",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Patel, D. (2023). AI",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "News",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Kdp.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "News Writing",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "to Story. United States: Pearson.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Beat",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Digital",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Age. (2022). India: SAGE Publications.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "4.14 CHECK YOUR PROGRESS: POSSIBLE",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "ANSWERS",
+      "page": 16
+    }
+  ]
+}
