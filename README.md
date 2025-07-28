@@ -1,4 +1,4 @@
-# 🧠 Adobe India Hackathon 2025 – Round 2 "Connecting the Dots" Submission
+# 🧠 Adobe India Hackathon 2025 – Round 2 "Build and Connect" Submission
 This repository contains complete implementations for:
 
 ✅ **Round 1A:** PDF Outline Extraction  
